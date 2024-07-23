@@ -1,0 +1,60 @@
+
+table,tr,td{
+  border: solid black;
+  border-collapse: collapse;
+}
+.a{
+color:red;
+background-color: aqua;
+}
+.b{
+color: black;
+
+}
+#c{
+color: blue;
+}
+#d{
+color: chartreuse;
+}
+.e{
+color:chocolate;
+}
+.f{
+color:yellow;
+}
+#g{
+color: darkmagenta;
+}
+.s{
+  margin-left: 100px;
+  font-size: 25px;
+  color: blue;
+  background-color: chartreuse;
+
+}
+.ed{
+  color:crimson;
+  background-color:whitesmoke;
+  margin-left: 100px;
+}
+#ex{
+  color:darkorange;
+  background-color: lightblue;
+}
+.ac{
+  color:cyan;
+  background-color: brown;
+}
+.sk{
+  color:aquamarine;
+  background-color: hotpink;
+}
+.aw{
+  color:black;
+  background-color:blanchedalmond
+}
+.h{
+  color:chartreuse;
+ background-color: dodgerblue;
+}
